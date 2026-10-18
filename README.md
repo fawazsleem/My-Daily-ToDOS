@@ -1,4 +1,4 @@
-# My-Daily-ToDOS
+# My-Daily-ToDoS
 A simple and user-friendly To-Do List application built with Python, Flet, and SQLite. My Daily ToDoS 
 helps users organize their daily tasks, set completion times, and keep track of their progress.
 
