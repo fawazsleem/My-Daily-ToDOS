@@ -32,7 +32,6 @@ helps users organize their daily tasks, set completion times, and keep track of 
 	├── todo.db        
 	└── README.md  
 
-
 1. Install Python
    
 Install Python from the official website
